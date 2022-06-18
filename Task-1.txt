@@ -1,4 +1,5 @@
 Write a blog on Difference between HTTP1.1 vs HTTP2
+
 HTTP (Hypertext Transfer Protocol) is a set of rules that runs on top of the TCP/IP suite of protocols and defines how files are to be transferred between clients and servers on the world wide web.
 HTTP2 is much faster and more reliable than HTTP1. HTTP1 loads a single request for every TCP connection, while HTTP2 avoids network delay by using multiplexing. 
 HTTP is a network delay sensitive protocol in the sense that if there is less network delay, then the page loads faster.
