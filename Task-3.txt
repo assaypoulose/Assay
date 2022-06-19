@@ -1,0 +1,15 @@
+CODEKATA practice
+
+Print the First 3 multiples of the number with single spaces between them as an output.
+
+Sample Input :
+2
+Sample Output :
+2 4 6
+
+Code strats here
+
+let sum = parseInt(userInput[0]);
+if (Number.isInteger(sum))
+
+console.log(sum*1, sum*2, sum*3)
